@@ -2,7 +2,7 @@
 <img src="./src/assistant.jpg" width="140" height="140"/>
 </p>
 <p align="center">
-<a href="#"><img title="ManuBot002" src="https://img.shields.io/badge/ 666| 🔥ManuBot🔥 | sepulveda-inovaction-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title="ManuBot002" src="https://img.shields.io/badge/ 666| 🔥ManuBot🔥 | 666-inovaction-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ManuBot"><img title="Author" src="https://img.shields.io/badge/author-Manu002-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
