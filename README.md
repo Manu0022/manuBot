@@ -8,7 +8,7 @@
 <a href="https://github.com/ManuBot"><img title="Author" src="https://img.shields.io/badge/author-Manu002-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue?colorA=%23ff0000&colorB=%230000ff&style=for-the-badge"</a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-SI-blue?colorA=%23ff0000&colorB=%230000ff&style=for-the-badge"</a>
 </p>
 <p align="center">
 <img src="https://www.crackingpro.com/uploads/team_VIP.gif" width="200" height="80"/>
